@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "946911309340",
+    "firebase_url": "https://geekapp-2157a.firebaseio.com",
+    "project_id": "geekapp-2157a",
+    "storage_bucket": "geekapp-2157a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:946911309340:android:6a4e502f3294f6d875b9d9",
+        "android_client_info": {
+          "package_name": "ac.i.geekapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "946911309340-ou0floiugqkv4jj9ili0m7gbi3n6fncb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ac.i.geekapp",
+            "certificate_hash": "b7696abd59034150cb46643862a3c60f5d256d13"
+          }
+        },
+        {
+          "client_id": "946911309340-p1mie89c01gk70itqu7egud1reoe980u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACcVk7QibmoAMGm8ROelODmYr3Qhsvvqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "946911309340-p1mie89c01gk70itqu7egud1reoe980u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ac.i.geekapp">
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/icon"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".jasa.Manajement"></activity>
+        <activity android:name=".jasa.Training" />
+        <activity android:name=".jasa.Technical" />
+        <activity android:name=".jasa.Perancangan" />
+        <activity android:name=".jasa.Software" />
+        <activity android:name=".jasa.Konstruksi" />
+        <activity android:name=".produk.Egov" />
+        <activity android:name=".produk.Alfred" />
+        <activity android:name=".produk.Medstore" />
+        <activity android:name=".produk.Nomad" />
+        <activity android:name=".produk.Udio" />
+        <activity android:name=".produk.geekpos" />
+        <activity android:name=".produk.Ges" />
+        <activity android:name=".produk.Dom" />
+        <activity android:name=".Pemesanan" />
+        <activity android:name=".Jasa" />
+        <activity android:name=".Produk" />
+        <activity android:name=".Home" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Register" />
+        <activity android:name=".Login" />
+        <activity android:name=".Splashscreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
